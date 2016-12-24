@@ -3,7 +3,7 @@ Capturing Screenshot from URL
 Upload the files to your localhost/server
 Make the bin directory executable (not necessary in localhost)
 Navigate to screenshot.php?url=google.com
-To use this in you site you can use <img src=”screenshot.php?url=google.com” />
+To use this in you site you can use 
 
 URL Parameters
 
